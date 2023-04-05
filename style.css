@@ -1,0 +1,14 @@
+.items {
+    background-color: green;
+    width: fit-content;
+    padding: 1px 20px;
+    border: 2px black solid;
+    float: right;
+    margin: 30px;
+}
+body {
+    background-color: green;
+}
+.right{
+    float: right;
+}
